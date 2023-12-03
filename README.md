@@ -12,7 +12,7 @@ This project involves creating a software for cryptographic purposes, using matr
 - **Compilation:** Via Makefile, including `re`, `clean`, and `fclean` rules.
 - **Binary Name:** 103cipher
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The focus of this project is to develop a program that encrypts messages using a matrix-based method. The process involves:
 
